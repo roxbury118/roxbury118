@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhinav Beetla</h1>
 <h3 align="center">Java stack enthusiast</h3>
 
-- 🔭 I’m currently working on **time series Project**
+- 🔭 I’m currently working on **ecom website**
 
 - 🌱 I’m currently learning **Spring , SpringBoot**
-
-- 👯 I’m looking to collaborate on **Traffic Management Project**
-
-- 🤝 I’m looking for help with **Simulation Pygame**
 
 - 👨‍💻 All of my projects are available at [https://roxbury118.github.io/abhinavPortfolio/](https://roxbury118.github.io/abhinavPortfolio/)
 
